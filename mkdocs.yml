@@ -1,0 +1,67 @@
+site_name: Base de Conhecimento
+#site_url: https://guilherme-lleite.github.io/Manual-Xpos
+
+
+theme:
+  logo: img/xposlogo.png
+  name: material
+  language: pt-BR
+
+nav:
+  - Home: index.md
+  - Instalação:
+    - Instalação Android: './pages/primeiros_passos.md'
+    - Instalação Web: './pages/primeiros_passos.md'
+  - Primeiro acesso: 
+    - API Web: './pages/primeiro_acesso/primeiro_acesso_web.md'
+    - API DJpdv: './pages/primeiros_passos.md'
+  - Configurações:
+    - Configurações de impressão: './pages/configuracoes/configuracoes_impressora.md'
+    - Configurações de balança: './pages/configuracoes/configuracoes_balanca.md'
+    - Configurações de leitores: './pages/configuracoes/configuracoes_leitor.md'
+    - Configurações de vendas: './pages/configuracoes/configuracoes_vendas.md'
+    - Configurações de aparência: './pages/configuracoes/configuracoes_aparencia.md'
+    - Usuários e Permissões: './pages/configuracoes/configuracoes_permissoes.md'
+    - Controle de módulos: './pages/configuracoes/configuracoes_modulos.md'
+  - Módulo Venda rápida: 
+    - Recomendação: './pages/modulo_venda_rapida/recomedacoes.md'
+    - Para que serve?: './pages/modulo_venda_rapida/para_que_serve_venda_rapida.md'
+    - Exemplo de Venda: './pages/modulo_venda_rapida/exemplo_venda_rapida.md'
+  - Módulo PDV:
+    - Recomendação: './pages/modulo_venda_pdv/recomedacoes_pdv.md'
+    - Para que serve?: './pages/modulo_venda_pdv/para_que_serve_pdv.md'
+    - Exemplo de Venda: './pages/modulo_venda_pdv/exemplo_venda_pdv.md'
+  - Módulo Auto Venda:
+     - Recomendação: './pages/modulo_auto_venda/recomedacoes_auto_venda.md'
+     - Para que serve?: './pages/modulo_auto_venda/para_que_serve_auto_venda.md'
+     - Exemplo de Venda: './pages/modulo_auto_venda/exemplo_auto_venda.md'
+  - Módulo Vendas: './pages/primeiros_passos.md'
+  - Relatórios: './pages/primeiros_passos.md'
+    
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
