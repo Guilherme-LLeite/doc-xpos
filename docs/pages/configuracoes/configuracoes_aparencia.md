@@ -1,8 +1,8 @@
-# <b> Configurações de Aparências: <b>
+# **Configurações de Aparências:**
 
 Os parâmetros de configurações de aparência são utilizados para personalizar o Xpos para o estilo de sistema que o cliente deseja, temos diversos parâmetros como a cor principal, logotipo e entre outros.
 
-- Utilizar foto de produtos:
+**- Utilizar foto de produtos:**
 
 Quando habilitado, permite a exibição da foto do produto na tela de vendas.
 
@@ -10,7 +10,7 @@ Quando habilitado, permite a exibição da foto do produto na tela de vendas.
   ![menuPrincipal](img/foto_catalogo.png)
 </figure>
 
-- Carrinho no lado esquerdo da tela:
+**- Carrinho no lado esquerdo da tela:**
 
 O carrinho de compras aparecerá do lado esquerdo da tela.
 
@@ -24,7 +24,7 @@ O carrinho de compras aparecerá do lado esquerdo da tela.
   ![menuPrincipal](img/carrinho_esquerda.png)
 </figure>
 
-- Habilitar tema escuro:
+**- Habilitar tema escuro:**
 
 Quando habilitado, usa o tema escuro do aplicativo.
 
@@ -32,7 +32,7 @@ Quando habilitado, usa o tema escuro do aplicativo.
   ![menuPrincipal](img/temas.png)
 </figure>
 
-- Utilizar o logo do tipo da loja:
+**- Utilizar o logo do tipo da loja:**
 
 Quando habilitado permite alterar o logotipo da loja.
 
@@ -41,7 +41,7 @@ Quando habilitado permite alterar o logotipo da loja.
   ![menuPrincipal](img/cpf_autovenda.gif)
 </figure>
 
-- Personalizar o autoatendimento:
+**- Personalizar o autoatendimento:**
 
 Quando habilitado, permite alterar o papel de parede do autoatendimento.
 
@@ -50,7 +50,7 @@ Quando habilitado, permite alterar o papel de parede do autoatendimento.
   ![menuPrincipal](img/cpf_autovenda.gif)
 </figure>
 
-- Utilizar slide:
+**- Utilizar slide:**
 
 Adicione Slide no autoatendimento.
 
@@ -59,7 +59,7 @@ Adicione Slide no autoatendimento.
   ![menuPrincipal](img/cpf_autovenda.gif)
 </figure>
 
-- Cabeçalho personalizado:
+**- Cabeçalho personalizado:**
 
 Quando habilitado, permite alterar o tamanho do cabeçalho.
 
@@ -67,7 +67,7 @@ Quando habilitado, permite alterar o tamanho do cabeçalho.
   ![menuPrincipal](img/tamanho_barras.png)
 </figure>
 
-- Tamanho do card:
+**- Tamanho do card:**
 
 Defina o tamanho dos cards para vendas com catálogo.
 
@@ -75,11 +75,11 @@ Defina o tamanho dos cards para vendas com catálogo.
   ![menuPrincipal](img/tamanho_cards.png)
 </figure>
 
-- Utilizar multi-telas:
+**- Utilizar multi-telas:**
 
 Este parâmetro permite que o aplicativo seja utilizado em multi telas (Funciona em somente android).
 
-- Cor principal do aplicativo:
+**- Cor principal do aplicativo:**
 
 Quando selecionado a cor, muda a cor principal do aplicativo.
 

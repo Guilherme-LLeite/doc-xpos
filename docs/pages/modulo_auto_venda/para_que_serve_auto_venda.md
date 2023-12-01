@@ -1,4 +1,4 @@
-### <b> Para que serve? <b>
+# **Para que serve?**
 
 O módulo de "Auto Venda" tem como seu objetivo ser um "Papa-Fila" trazendo para os clientes
 a redução das filas, aliviando o fluxo durante os horários de pico, além de tudo sem demandar

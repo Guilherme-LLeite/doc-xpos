@@ -1,12 +1,12 @@
-# <b> Configurações de Vendas: <b>
+# **Configurações de Vendas:**
 
-### Parâmetro de vendas gerais
+### **Parâmetro de vendas gerais**
 
- - Utilizar segunda via do cupom:
+ **- Utilizar segunda via do cupom:**
 
 Quando habilitado, permite a impressão da segunda via do cupom;
 
-- Quantidade no autoatendimento:
+**- Quantidade no autoatendimento:**
 
 Quando habilitado, permite ao consumidor controlar a quantidade de produtos no autoatendimento;
 
@@ -14,7 +14,7 @@ Quando habilitado, permite ao consumidor controlar a quantidade de produtos no a
   ![menuPrincipal](img/qtd_autoatendimento.png)
 </figure>
 
-- Checkout automático em dinheiro:
+**- Checkout automático em dinheiro:**
 
 Quando habilitado, ao clicar no valor a venda é finalizada automaticamente;
 
@@ -24,7 +24,7 @@ Quando habilitado, ao clicar no valor a venda é finalizada automaticamente;
 
 ### Parâmetros de pagamentos
 
-- Venda fiscal integrada:
+**- Venda fiscal integrada:**
 
 Habilite para fazer vendas fiscais via integração com DJPDV;
 
@@ -34,9 +34,9 @@ Habilite para fazer vendas fiscais via integração com DJPDV;
 
 !!! warning "Atenção!!!"
     Para a configuração da integração todos os dispositivos tem que estar 
-    na mesma rede, caso o contrário, vai dar falha na comunicação.
+    na mesma rede, caso o contrário, ocorrerá falha na comunicação.
 
-- Habilitar integração com TEF
+**- Habilitar integração com TEF**
 
 Suporte para maquininha da Rede ou Mercado pago
 
@@ -44,9 +44,9 @@ Suporte para maquininha da Rede ou Mercado pago
   ![menuPrincipal](img/habili_TEF.gif)
 </figure>
 
-### Parâmetros de cartão presente
+### **Parâmetros de cartão presente**
 
-- Habilitar cartão presente:
+**- Habilitar cartão presente:**
 
 Quando habilitado, permite a utilização de códigos de resgate e cartões presente.
 

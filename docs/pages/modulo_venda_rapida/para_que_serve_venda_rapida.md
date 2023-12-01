@@ -1,4 +1,4 @@
-### <b> Para que serve? <b>
+# **Para que serve?**
 
 O módulo de "Venda Rápida" tem como seu objetivo em realizar vendas rápidas com poucos cliques,
 com isso facilitando a usuabilidade e a experiência do usuário com o sistema.

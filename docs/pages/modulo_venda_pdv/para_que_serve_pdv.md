@@ -1,4 +1,4 @@
-### <b> Para que serve? <b>
+# **Para que serve?**
 
 O módulo de "PDV" tem como seu objetivo ser um frente de caixa que seja rápido e objetivo,
 contendo uma usuabilidade fácil e simples para o usuário do sistema.
