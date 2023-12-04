@@ -28,9 +28,9 @@ Quando habilitado, ao clicar no valor a venda é finalizada automaticamente;
 
 Habilite para fazer vendas fiscais via integração com DJPDV;
 
-<figure markdown>
-  ![menuPrincipal](img/habi_integração.gif)
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1xhsrAfttg?si=EfyTcVCCgak-oFVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 !!! warning "Atenção!!!"
     Para a configuração da integração todos os dispositivos tem que estar 
