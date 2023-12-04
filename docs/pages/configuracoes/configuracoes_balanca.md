@@ -4,9 +4,6 @@ O Xpos pode ser configurado apenas com balança Bluetooth, mas você pode ativar
 
 ### **Segue o vídeo para configuração de impressora bluetooth:**
 
-<figure markdown>
-  <figcaption>Configurando balança Bluetooth</figcaption>
-  ![menuPrincipal](img/balanca_bluetooth.gif)
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W7j_Z4-aqFY?si=nF1PYvl5l2g6dV4t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 

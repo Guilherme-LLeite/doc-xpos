@@ -8,10 +8,7 @@ Quando habilitado, é utilizado a senha do dia (disponível no site ….) para b
 
 Quando habilitado, ele tem a mesma função do “Utilizar a senha do dia”, porém você escolhe a senha que deseja utilizar.
 
-<figure markdown>
-  <figcaption>Exemplo de configuração</figcaption>
-  ![menuPrincipal](img/senha.gif)
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cwtc9jSK1fM?si=swTBmq1_cjlCryND" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **- Utilizar senha para cancelamentos:**
 
