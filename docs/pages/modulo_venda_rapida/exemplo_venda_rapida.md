@@ -1,32 +1,19 @@
 # **Realizando venda no Módulo Venda Rápida**
 
-**1 - Clique em "Venda Rápida" para acessar o módulo:**
+**1 - Clique em "Venda Rápida" para acessar o módulo e selecione os produtos para venda:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q711nFBNjgg?si=Z5uQLjknzwVvPNw_&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**2 - Após selecionar o produto, na parte inferior vai aparecer as opções da forma de pagamento:**
 
 <figure markdown>
-  ![menuPrincipal](img/acessar_venda_rapida.gif)
-  <figcaption>Clique em Venda Rápida</figcaption>
-</figure>
-
-**2 - Selecione os produtos que deseja vender:**
-
-<figure markdown>
-  ![menuPrincipal](img/selecionar_produto.gif)
-  <figcaption>Clique nos produtos para vender</figcaption>
-</figure>
-
-**3 - Após selecionar o produto, na parte inferior vai aparecer as opções da forma de pagamento:**
-
-<figure markdown>
-  ![menuPrincipal](img/selecaodepagamento.png)
+  ![menuPrincipal](img/selecaodepagamento2.png)
   <figcaption>Selecione a Forma de Pagamento</figcaption>
 </figure>
 
-**4 - Neste exemplo foi selecionado a forma de pagamento "Dinheiro":**
+**3 - Neste exemplo foi selecionado a forma de pagamento "Dinheiro":**
 
-<figure markdown>
-  ![menuPrincipal](img/selecionar_pagamento.gif)
-  <figcaption>Clique no valor paga pelo o cliente ou insira o valor</figcaption>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OVpNX7PjAeQ?si=ZTytAvtJ-V9NROaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 !!! info "Demais Formas de Pagamento"
         Caso selecione Pix, cartão de crédito e débito ele finalizara a venda após o clique.

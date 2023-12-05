@@ -7,9 +7,5 @@ Caso você esteja utilizando dispositivos que não tenha entrada USB como SmartP
 
 ### **Segue o vídeo para configuração de leitor de código de barras bluetooth:**
 
-<figure markdown>
-  <figcaption>Configurando leitor Bluetooth:</figcaption>
-  ![menuPrincipal](img/cpf_autovenda.gif)
-</figure>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PGKPldBF59E?si=26OHu_pApYtLWSmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
