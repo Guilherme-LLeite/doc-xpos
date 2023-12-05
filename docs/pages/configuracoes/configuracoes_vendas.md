@@ -18,9 +18,7 @@ Quando habilitado, permite ao consumidor controlar a quantidade de produtos no a
 
 Quando habilitado, ao clicar no valor a venda é finalizada automaticamente;
 
-<figure markdown>
-  ![menuPrincipal](img/venda_checkout_dinheiro.gif)
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9lP65DQdThs?si=mKAxsoDDkVFOboYi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Parâmetros de pagamentos
 

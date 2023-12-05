@@ -2,11 +2,11 @@
 
 1 - Clique em "Venda Rápida" para acessar o módulo;
 
-2- Selecione os produtos;
+2 - Selecione os produtos;
 
 3 - Após selecionar o produto, na parte inferior vai aparecer as opções da forma de pagamento;
 
-4 - Neste exemplo foi selecionado a forma de pagamento "Dinheiro":
+4 - Neste exemplo foi selecionado a forma de pagamento "Dinheiro".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jdjzFNAJcsM?si=FniYV4gG23Rq1_8O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
