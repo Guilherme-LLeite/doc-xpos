@@ -10,10 +10,11 @@ theme:
 nav:
   - Home: index.md
   - Instalação:
-    - Instalação Android: './pages/primeiros_passos.md'
+    - Instalação Android: './pages/instalacao/instalacao_android.md'
+    - Instalação Windows: './pages/primeiros_passos.md'
   - Primeiro acesso: 
-    - API Web: './pages/primeiro_acesso/primeiro_acesso_web.md'
-    - API DJpdv: './pages/primeiros_passos.md'
+    - Primeiro acesso Xpos: './pages/primeiro acesso/acesso_xpos.md'
+    - Primeiro acesso integrado ao PDV: './pages/primeiro acesso/api_pdv.md'
   - Configurações:
     - Configurações de impressão: './pages/configuracoes/configuracoes_impressora.md'
     - Configurações de balança: './pages/configuracoes/configuracoes_balanca.md'
@@ -36,6 +37,7 @@ nav:
      - Exemplo de Venda: './pages/modulo_auto_venda/exemplo_auto_venda.md'
   - Módulo Vendas: './pages/modulo_vendas/modulo_vendas.md'
   - Relatórios: './pages/relatorios/relatorios.md'
+  - Proxy: './pages/proxy/proxy.md'
     
 markdown_extensions:
   - admonition
