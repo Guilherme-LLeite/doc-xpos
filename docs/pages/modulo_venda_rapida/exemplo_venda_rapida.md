@@ -14,5 +14,4 @@
         Caso selecione Pix, cartão de crédito e débito ele finalizara a venda após o clique.
 
 !!! warning "Integração com TEF"
-       Para emissão do comprovante de pagamento é necessário um TEF vinculado.
-       Caso o contrário será somente registro da venda.
+       Se não houver TEF não será feita transação pelo app, somente comprovante será impresso.

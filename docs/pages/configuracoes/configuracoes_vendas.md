@@ -36,7 +36,7 @@ Habilite para fazer vendas fiscais via integração com DJPDV;
 
 **- Habilitar integração com TEF**
 
-Suporte para maquininha da Rede ou Mercado pago
+Suporte para maquininha da Rede
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OsldqxLWRNI?si=VVPxDemVuZZzUxWu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

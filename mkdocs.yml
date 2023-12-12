@@ -11,7 +11,6 @@ nav:
   - Home: index.md
   - Instalação:
     - Instalação Android: './pages/primeiros_passos.md'
-    - Instalação Web: './pages/primeiros_passos.md'
   - Primeiro acesso: 
     - API Web: './pages/primeiro_acesso/primeiro_acesso_web.md'
     - API DJpdv: './pages/primeiros_passos.md'
@@ -35,8 +34,8 @@ nav:
      - Recomendação: './pages/modulo_auto_venda/recomedacoes_auto_venda.md'
      - Para que serve?: './pages/modulo_auto_venda/para_que_serve_auto_venda.md'
      - Exemplo de Venda: './pages/modulo_auto_venda/exemplo_auto_venda.md'
-  - Módulo Vendas: './pages/primeiros_passos.md'
-  - Relatórios: './pages/primeiros_passos.md'
+  - Módulo Vendas: './pages/modulo_vendas/modulo_vendas.md'
+  - Relatórios: './pages/relatorios/relatorios.md'
     
 markdown_extensions:
   - admonition
