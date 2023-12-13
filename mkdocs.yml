@@ -11,7 +11,7 @@ nav:
   - Home: index.md
   - Instalação:
     - Instalação Android: './pages/instalacao/instalacao_android.md'
-    - Instalação Windows: './pages/primeiros_passos.md'
+    - Instalação Windows: './pages/instalacao/instalacao_windows.md'
   - Primeiro acesso: 
     - Primeiro acesso Xpos: './pages/primeiro acesso/acesso_xpos.md'
     - Primeiro acesso integrado ao PDV: './pages/primeiro acesso/api_pdv.md'
