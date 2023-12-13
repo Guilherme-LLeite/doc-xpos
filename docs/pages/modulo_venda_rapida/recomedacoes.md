@@ -10,7 +10,7 @@ O módulo de "Venda Rápida" é recomendado para os seguintes estabelecimentos:
 
 **- Totem de autoatendimento por catálogo;**
 
-****- Estabelecimento onde o uso de código de barras não é obrigatório;**
+**- Estabelecimento onde o uso de código de barras não é obrigatório;**
 
 **- Qualquer estabelecimento que tenham poucos produtos.**
 
