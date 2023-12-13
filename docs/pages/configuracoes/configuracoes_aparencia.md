@@ -36,28 +36,19 @@ Quando habilitado, usa o tema escuro do aplicativo.
 
 Quando habilitado permite alterar o logotipo da loja.
 
-<figure markdown>
-  <figcaption>:</figcaption>
-  ![menuPrincipal](img/cpf_autovenda.gif)
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E6EHKl62UFA?si=t0XKK7ojOsRXYnzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **- Personalizar o autoatendimento:**
 
 Quando habilitado, permite alterar o papel de parede do autoatendimento.
 
-<figure markdown>
-  <figcaption>:</figcaption>
-  ![menuPrincipal](img/cpf_autovenda.gif)
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gHFaWlNsWRE?si=w5jEd5fec_ZB8YCS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **- Utilizar slide:**
 
 Adicione Slide no autoatendimento.
 
-<figure markdown>
-  <figcaption>:</figcaption>
-  ![menuPrincipal](img/cpf_autovenda.gif)
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xk1Uqg_yVzo?si=whtF2UcOmPj469Aa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **- Cabeçalho personalizado:**
 

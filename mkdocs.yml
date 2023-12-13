@@ -35,6 +35,11 @@ nav:
      - Recomendação: './pages/modulo_auto_venda/recomedacoes_auto_venda.md'
      - Para que serve?: './pages/modulo_auto_venda/para_que_serve_auto_venda.md'
      - Exemplo de Venda: './pages/modulo_auto_venda/exemplo_auto_venda.md'
+  - Cadastros:
+     - Categorias de Produtos: './pages/cadastros/cat_produtos.md'
+     - Formas de Pagamentos: './pages/cadastros/forma_pagto.md'
+     - Produtos: './pages/cadastros/produtos.md'
+     - Clientes: './pages/cadastros/clientes.md'
   - Módulo Vendas: './pages/modulo_vendas/modulo_vendas.md'
   - Relatórios: './pages/relatorios/relatorios.md'
   - Proxy: './pages/proxy/proxy.md'
