@@ -13,4 +13,4 @@ Módulo de cadastro de produto tem como campo obrigatório a "Descrição", "Pre
 
 ### Exemplo de cadastro
 
-Vídeo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R1Pc8JN-lS4?si=zBxOEOtug6CUt1bE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -8,4 +8,4 @@ O cadastro da forma de pagamento é bem simples, contendo apenas 3 campos para p
 
 ### Exemplo de cadastro
 
-Vídeo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vG0GISlcXRY?si=xxMeCxP6yWTmU2zx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
