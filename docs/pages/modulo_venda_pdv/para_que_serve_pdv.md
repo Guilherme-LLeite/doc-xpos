@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Para que serve?**
 
 O módulo de "PDV" tem como seu objetivo ser um frente de caixa que seja rápido e objetivo,

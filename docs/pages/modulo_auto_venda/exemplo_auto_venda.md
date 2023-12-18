@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Realizando venda no Módulo Venda Rápida**
 
 1 - Clique em "Auto Venda" para acessar o módulo;

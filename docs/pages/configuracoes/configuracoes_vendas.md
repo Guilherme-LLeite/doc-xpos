@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Configurações de Vendas:**
 
 ### **Parâmetro de vendas gerais**

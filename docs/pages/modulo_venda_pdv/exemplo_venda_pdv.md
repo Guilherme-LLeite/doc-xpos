@@ -1,3 +1,10 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
+
 # **Realizando venda no Módulo PDV**
 
 1 - Clique em "PDV" para acessar o módulo;

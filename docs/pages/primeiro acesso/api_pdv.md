@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Primeiro acesso com API DJmonitor**
 
 Para utilizar o Xpos integrado com o DJMONITOR é necessário realizar algumas configurações no DJMONITOR.

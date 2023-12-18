@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Configurações de Leitores:**
 
 No Xpos você pode utilizar tanto o leitor de código de barras Bluetooth ou USB, também você pode estar utilizando a câmera do seu dispositivo para realizar a leitura do código de barras, isso vai depender de qual dispositivo você vai utilizar. 

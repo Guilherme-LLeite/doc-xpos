@@ -1,3 +1,10 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
+
 # **Recomendações do Módulo PDV**
 
 O módulo de "PDV" é recomendado para qualquer estabelecimentos comercial, exemplos:

@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Cadastrando Categorias de Produtos**
 
 Para o cadastro de uma categoria do produto o único campo obrigatório é a "descrição" dela.

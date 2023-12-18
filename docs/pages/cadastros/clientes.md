@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Cadastrando Clientes**
 
 O cadastro de clientes tem como campo obrigatório "CPF/CNPJ", "Nome" e "Endereço do cliente".

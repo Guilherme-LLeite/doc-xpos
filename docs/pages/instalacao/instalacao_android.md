@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Instalação Android**
 
 O instalador para Android vai ser disponibilizado um apk pelo o setor comercial ou também disponível na Playstore.

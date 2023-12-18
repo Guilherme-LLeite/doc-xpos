@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Recomendações do Módulo Auto Venda**
 
 O módulo de "Auto Venda" é recomendado para estabelecimentos que utilize totem de auto atendimento, exemplos:

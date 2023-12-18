@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Cadastrando Forma de Pagamento**
 
 O cadastro da forma de pagamento é bem simples, contendo apenas 3 campos para preencher.

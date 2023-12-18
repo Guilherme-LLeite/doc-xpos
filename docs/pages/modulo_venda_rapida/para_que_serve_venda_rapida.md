@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Para que serve?**
 
 O módulo de "Venda Rápida" tem como seu objetivo em realizar vendas rápidas com poucos cliques,

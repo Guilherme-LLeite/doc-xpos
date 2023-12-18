@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Configurações de Permissões:**
 
 **- Utilizar senha do dia:**

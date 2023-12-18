@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Módulo Vendas**
 
 O módulo de vendas ele tem como intuito mostrar as vendas realizadas no dia, caso o funcionário precise revisar os produtos vendidos, valores ou até mesmo reimprimir ou cancelar a venda

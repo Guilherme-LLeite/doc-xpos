@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Configurações de Módulos:**
 
 Os parâmetros de controle de módulos tem como objetivo ativar e desabilitar os módulos contratados por clientes da DJSYSTEM

@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Configurando o primeiro acesso no Xpos**
 
 O setor comercial vai disponibilizar para o cliente o login e senha para o primeiro acesso.

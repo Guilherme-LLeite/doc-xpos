@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # Documentação Xpos
 
 Este documento tem como objetivo mostrar passo a passo para diversas rotinas do Xpos, com o objetivo de facilitar o dia a dia 

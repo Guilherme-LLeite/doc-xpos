@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Configurações de Aparências:**
 
 Os parâmetros de configurações de aparência são utilizados para personalizar o Xpos para o estilo de sistema que o cliente deseja, temos diversos parâmetros como a cor principal, logotipo e entre outros.

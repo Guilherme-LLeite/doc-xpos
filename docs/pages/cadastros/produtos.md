@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Cadastrando Produtos**
 
 Módulo de cadastro de produto tem como campo obrigatório a "Descrição", "Preço" e "Código de barras". 
