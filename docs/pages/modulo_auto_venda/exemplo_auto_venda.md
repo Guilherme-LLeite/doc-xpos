@@ -2,7 +2,16 @@
   body {
     text-align: justify;
   }
-</style>
+  iframe { 
+    display: flex;
+    justify-content: center;
+    align: center !important;
+    height: 100vh;
+    margin: auto;
+  } 
+  </style>
+  
+# exemplo_auto_venda.md
 
 # **Realizando venda no Módulo Venda Rápida**
 

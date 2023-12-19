@@ -2,6 +2,13 @@
   body {
     text-align: justify;
   }
+  iframe { 
+    display: flex;
+    justify-content: center;
+    align: center !important;
+    height: 100vh;
+    margin: auto;
+  } 
 </style>
 
 # Documentação Xpos

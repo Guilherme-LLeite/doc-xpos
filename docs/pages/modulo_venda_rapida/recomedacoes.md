@@ -1,3 +1,9 @@
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 # **Recomendações do Módulo Venda Rápida**
 
 O módulo de "Venda Rápida" é recomendado para os seguintes estabelecimentos:
