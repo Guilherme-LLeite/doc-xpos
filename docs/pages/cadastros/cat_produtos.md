@@ -22,4 +22,4 @@ Para o cadastro de uma categoria do produto o único campo obrigatório é a "de
 
 ### Exemplo de cadastro:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DC0yoqNxOZo?si=lb351h8M0jtsjggc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s-nIFkXqONU?si=mNfgGNCdpyUjjNTu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

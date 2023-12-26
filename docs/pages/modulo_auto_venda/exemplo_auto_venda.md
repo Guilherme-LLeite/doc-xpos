@@ -27,7 +27,7 @@
 
 6 - Depois selecione a forma de pagamento.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zo5U-r9cXDA?si=lTWcGw4Ik9IQ0Fnf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZIlMqMocw58?si=cjOOKIdGZdoWlsqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 !!! warning "Integração com TEF"

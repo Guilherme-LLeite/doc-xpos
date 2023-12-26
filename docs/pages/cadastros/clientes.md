@@ -27,4 +27,4 @@ O cadastro de clientes tem como campo obrigat√≥rio "CPF/CNPJ", "Nome" e "Endere√
 
 ### Exemplo de cadastro
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nb_FE98i898?si=_-OXHLQAIfg2q3-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0c8-pRBnW_0?si=jFbsaGFRNSO9nHlr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
