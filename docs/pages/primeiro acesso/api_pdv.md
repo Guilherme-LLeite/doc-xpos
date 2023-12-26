@@ -25,7 +25,7 @@ Para utilizar o Xpos integrado com o DJMONITOR é necessário realizar algumas c
 
 Demonstração para configuração do DJMONITOR 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K5tnY2iaRhI?si=ETI60X-GWlbkkWrn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oi0lMVkusQE?si=7FiVaCTcEYtLR-Am" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Após configurado no DJMONITOR, execute o Xpos para configurar a integração.
 

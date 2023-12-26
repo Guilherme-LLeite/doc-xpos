@@ -31,8 +31,8 @@ O tipo de impressora “Sem impressão (PDF)” pode ser utilizado para estabele
 
 ### Exemplo configuração impressora Bluetooth
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8B2i7Mi2F2c?si=7TxbGwKsD7oJaLjp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u5oKQjg7fMI?si=6nZ6xXiYQG7FNNLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### **Configuração impressora Manualmente:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jtPwAuK_OzE?si=CtTbIUBpJbhkmS0t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VLumTzELz5k?si=XTovPcASTi2rllR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

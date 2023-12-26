@@ -21,7 +21,7 @@
 
 4 - Neste exemplo foi selecionado a forma de pagamento "Dinheiro".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jdjzFNAJcsM?si=FniYV4gG23Rq1_8O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NoeyD7XwlK4?si=_YYBkYwAf8mai-UD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 !!! info "Demais Formas de Pagamento"
         Caso selecione Pix, cartão de crédito e débito ele finalizara a venda após o clique.

@@ -49,19 +49,19 @@ Quando habilitado, usa o tema escuro do aplicativo.
 
 Quando habilitado permite alterar o logotipo da loja.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E6EHKl62UFA?si=t0XKK7ojOsRXYnzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-LfHl-EOqFw?si=YHXk9YzhTX8_NiVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **- Personalizar o autoatendimento:**
 
 Quando habilitado, permite alterar o papel de parede do autoatendimento.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gHFaWlNsWRE?si=w5jEd5fec_ZB8YCS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vucp8f46MJQ?si=7oI1l_kq_kA9hpdv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **- Utilizar slide:**
 
 Adicione Slide no autoatendimento.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xk1Uqg_yVzo?si=whtF2UcOmPj469Aa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3m_qgSkJewc?si=KV3hOp6SHOaXtigc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **- Cabeçalho personalizado:**
 
