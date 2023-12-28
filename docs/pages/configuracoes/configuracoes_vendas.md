@@ -31,7 +31,7 @@ Quando habilitado, permite ao consumidor controlar a quantidade de produtos no a
 
 Quando habilitado, ao clicar no valor a venda é finalizada automaticamente;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9lP65DQdThs?si=mKAxsoDDkVFOboYi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NEmItThqRm4?si=gj2zMWKgqwYuMxxV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Parâmetros de pagamentos
 
@@ -39,7 +39,7 @@ Quando habilitado, ao clicar no valor a venda é finalizada automaticamente;
 
 Habilite para fazer vendas fiscais via integração com DJPDV;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1xhsrAfttg?si=EfyTcVCCgak-oFVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0m5vecdOYuQ?si=wbEhYFrVLg1tZ5ed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -51,7 +51,7 @@ Habilite para fazer vendas fiscais via integração com DJPDV;
 
 Suporte para maquininha da Rede
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OsldqxLWRNI?si=VVPxDemVuZZzUxWu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4uE0sJOpOSc?si=qrFCh1L0rMrFwcYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### **Parâmetros de cartão presente**
 
@@ -59,4 +59,4 @@ Suporte para maquininha da Rede
 
 Quando habilitado, permite a utilização de códigos de resgate e cartões presente.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6dp6nl2Nin0?si=zZqOrNzi3LdAo_0F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SS3SLte9Mso?si=U1RojVfWR-qhkEac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
