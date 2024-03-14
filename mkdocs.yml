@@ -41,7 +41,7 @@ nav:
      - Clientes: './pages/cadastros/clientes.md'
   - Módulo Vendas: './pages/modulo_vendas/modulo_vendas.md'
   - Relatórios: './pages/relatorios/relatorios.md'
-  - Proxy: './pages/proxy/proxy.md'
+  # - Proxy: './pages/proxy/proxy.md'
     
 markdown_extensions:
   - admonition
