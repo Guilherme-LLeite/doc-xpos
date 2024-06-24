@@ -23,9 +23,9 @@ nav:
     - Usuários e Permissões: './pages/configuracoes/configuracoes_permissoes.md'
     - Controle de módulos: './pages/configuracoes/configuracoes_modulos.md'
   - Módulo Venda rápida: 
-    - Recomendação: './pages/modulo_venda_rapida/recomedacoes.md'
     - Para que serve?: './pages/modulo_venda_rapida/para_que_serve_venda_rapida.md'
-    - Exemplo de Venda: './pages/modulo_venda_rapida/exemplo_venda_rapida.md'
+    - Recomendação: './pages/modulo_venda_rapida/recomedacoes.md'
+    - Funções Venda Rápida: './pages/modulo_venda_rapida/funcoes_venda_rapida.md'
   - Módulo PDV:
     - Recomendação: './pages/modulo_venda_pdv/recomedacoes_pdv.md'
     - Para que serve?: './pages/modulo_venda_pdv/para_que_serve_pdv.md'

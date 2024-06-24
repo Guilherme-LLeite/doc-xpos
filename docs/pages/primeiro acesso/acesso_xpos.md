@@ -13,7 +13,7 @@
 
 # **Configurando o primeiro acesso no Xpos**
 
-O setor comercial vai disponibilizar para o cliente o login e senha para o primeiro acesso.
+O cliente vai realizar um cadastro junto o contrato de aquisição em nosso site, após realizar esse cadastro vai utilizar o email e a senha para acessar o Xpos.
 
 ### Exemplo de configuração da loja no primeiro acesso
 
